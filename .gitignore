@@ -14,4 +14,8 @@ paper/*.lof
 paper/*.lot
 paper/*.synctex.gz
 
+# Cover letter is private to the submission, not for the public repo
+paper/cover_letter.tex
+paper/cover_letter.pdf
+
 .DS_Store
