@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or paper, please cite it as below."
+title: >-
+  Generative AI Adoption in the Bangladeshi Software Engineering
+  Workforce: A Simulation-Based Analysis of Diffusion, Productivity,
+  and Skills Gaps
+authors:
+  - family-names: Khan
+    given-names: Tanzim Islam
+    email: dihan2468@gmail.com
+version: 1.0.0
+date-released: "2026-05-25"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/tanzimkhan24/genai-se-bangladesh"
+keywords:
+  - generative AI
+  - software engineering
+  - Bangladesh
+  - Bass diffusion
+  - technology adoption
+  - skills gap
+  - LMIC
+  - emerging economies
+  - workforce projection
+abstract: >-
+  The first integrated quantitative analysis of GenAI adoption in the
+  Bangladeshi software engineering workforce (2022-2026), combining Bass
+  diffusion modelling, a calibrated synthetic workforce simulation
+  (N=1500), heterogeneous treatment effect estimation, a skills gap
+  index, and four policy scenarios projected to 2031. All source code,
+  40 unit tests, 12 figures, and 11 data tables are released openly.
