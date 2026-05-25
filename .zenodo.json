@@ -1,0 +1,29 @@
+{
+  "title": "Generative AI Adoption in the Bangladeshi Software Engineering Workforce: A Simulation-Based Analysis of Diffusion, Productivity, and Skills Gaps",
+  "description": "<p>The first integrated quantitative analysis of generative AI (GenAI) adoption in the Bangladeshi software engineering workforce for 2022 to 2026. The analysis combines a Bass diffusion model, a reproducible synthetic workforce simulation (N = 1,500) calibrated to BASIS, BBS and World Bank statistics, heterogeneous treatment-effect estimation by English-proficiency stratum, and a skills-gap index by university tier. Four policy scenarios are projected to 2031. The repository contains the full Python pipeline, 40 automated unit tests, 12 publication-quality figures, 11 data tables, and the complete LaTeX manuscript prepared for peer review.</p><p><strong>Reproducibility:</strong> all outputs are deterministic with random seed <code>SEED = 20260524</code>.</p><p><strong>Licences:</strong> source code under MIT; paper, figures, and data tables under CC BY 4.0.</p>",
+  "creators": [
+    {
+      "name": "Khan, Tanzim Islam",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "generative AI",
+    "software engineering",
+    "Bangladesh",
+    "Bass diffusion",
+    "technology adoption",
+    "skills gap",
+    "LMIC",
+    "emerging economies",
+    "workforce projection",
+    "SDG 8",
+    "SDG 9"
+  ],
+  "license": "MIT",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "access_right": "open",
+  "language": "eng",
+  "communities": []
+}

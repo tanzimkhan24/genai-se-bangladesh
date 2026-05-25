@@ -8,11 +8,9 @@ authors:
   - family-names: Khan
     given-names: Tanzim Islam
     email: dihan2468@gmail.com
-version: 1.0.0
+version: 1.0.2
 date-released: "2026-05-25"
-license:
-  - MIT
-  - CC-BY-4.0
+license: MIT
 repository-code: "https://github.com/tanzimkhan24/genai-se-bangladesh"
 keywords:
   - generative AI
